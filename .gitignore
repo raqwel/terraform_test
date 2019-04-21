@@ -1,4 +1,6 @@
 .idea
-
-./venv/*
+**/.terraform/**
+terraform.tfstate
+terraform.tfstate.backup
+venv/*
 aws_region.tf
