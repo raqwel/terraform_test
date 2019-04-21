@@ -1,4 +1,4 @@
 .idea
-.terraform
-./venv
-./aws_region.tf
+
+./venv/*
+aws_region.tf
